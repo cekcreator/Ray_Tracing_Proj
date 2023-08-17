@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/cekcreator/Ray_Tracing_Proj">
-    <img src="img/logo.jpg" alt="img/img_from_book.jpg" width="100" height="100">
+    <img src="img/img_from_book.jpg" alt="None" width="100" height="100">
   </a>
 
 <h3 align="center">Ray Tracing algorithm following Peter Shirleys books</h3>
